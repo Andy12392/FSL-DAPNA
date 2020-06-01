@@ -1,4 +1,4 @@
-# [Few-Shot Learning as Domain Adaptation: Algorithm and Analysis](https://arxiv.org/pdf/2002.02050.pdf)
+# [Few-Shot Learning as Domain Adaptation: Algorithm and Analysis](https://arxiv.org/pdf/2002.02050.pdf)(accepted by ICML2020)
 Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen
 
 # Abstract
