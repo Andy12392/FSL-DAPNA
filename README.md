@@ -7,14 +7,12 @@ To recognize the unseen classes with only few samples, few-shot learning (FSL) u
 # Citation
 If you find it useful, please consider citing our work using the bibtex:
 
-    @misc{guan2020fewshot,
-      title={Few-Shot Learning as Domain Adaptation: Algorithm and Analysis},
-      author={Jiechao Guan and Zhiwu Lu and Tao Xiang and Ji-Rong Wen},
-      year={2020},
-      eprint={2002.02050},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-    }
+    @inproceedings{guan2020icml,
+	title = {Few-Shot Learning as Domain Adaptation: Algorithm and Analysis},
+	author = {Jiechao Guan and Zhiwu Lu and Tao Xiang and Ji-Rong Wen},
+	booktitle = {International Conference on Machine Learning},
+	year = {2020},
+}
 
 # Environment
 * Python 3.7
